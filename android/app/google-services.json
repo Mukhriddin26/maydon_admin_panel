@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "513609381550",
+    "firebase_url": "https://instagram-ui-pdp-default-rtdb.firebaseio.com",
+    "project_id": "instagram-ui-pdp",
+    "storage_bucket": "instagram-ui-pdp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513609381550:android:f9945a349acf40fdf79f3f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZWU4giv9EJ_OoZqNYqfwu_kHGqcEMBM"
+        },
+        {
+          "current_key": "AIzaSyAcI1RIHf6RbAfDyP2prlS6uuTOdUNeIdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513609381550-2jqdp0eq8mga1kf8qf1nr0vl15b03tk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluttermuhriddin2022.instagramUi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513609381550:android:e40b86f45d679111f79f3f",
+        "android_client_info": {
+          "package_name": "com.example.learn_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZWU4giv9EJ_OoZqNYqfwu_kHGqcEMBM"
+        },
+        {
+          "current_key": "AIzaSyAcI1RIHf6RbAfDyP2prlS6uuTOdUNeIdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513609381550-2jqdp0eq8mga1kf8qf1nr0vl15b03tk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluttermuhriddin2022.instagramUi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513609381550:android:aa80e5f7f97b9d22f79f3f",
+        "android_client_info": {
+          "package_name": "com.example.maydon_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZWU4giv9EJ_OoZqNYqfwu_kHGqcEMBM"
+        },
+        {
+          "current_key": "AIzaSyAcI1RIHf6RbAfDyP2prlS6uuTOdUNeIdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513609381550-2jqdp0eq8mga1kf8qf1nr0vl15b03tk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluttermuhriddin2022.instagramUi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513609381550:android:265fd411fbbd6bf0f79f3f",
+        "android_client_info": {
+          "package_name": "com.example.maydon_super_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZWU4giv9EJ_OoZqNYqfwu_kHGqcEMBM"
+        },
+        {
+          "current_key": "AIzaSyAcI1RIHf6RbAfDyP2prlS6uuTOdUNeIdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513609381550-2jqdp0eq8mga1kf8qf1nr0vl15b03tk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluttermuhriddin2022.instagramUi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513609381550:android:9ba294ea67bfc6aff79f3f",
+        "android_client_info": {
+          "package_name": "com.pdp.maydon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZWU4giv9EJ_OoZqNYqfwu_kHGqcEMBM"
+        },
+        {
+          "current_key": "AIzaSyAcI1RIHf6RbAfDyP2prlS6uuTOdUNeIdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513609381550-bgqvp1c7ncts9cie4af94klpo5sm0d81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513609381550-2jqdp0eq8mga1kf8qf1nr0vl15b03tk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluttermuhriddin2022.instagramUi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
