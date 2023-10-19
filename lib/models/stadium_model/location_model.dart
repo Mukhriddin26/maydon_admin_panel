@@ -1,6 +1,7 @@
 
 
-import 'package:maydon_admin_panel/domain/models/stadium_model/latlng_model.dart';
+
+import 'latlng_model.dart';
 
 class LocationStadium {
   String region;

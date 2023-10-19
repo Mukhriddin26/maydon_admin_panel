@@ -1,8 +1,8 @@
 
 
-import 'package:maydon_admin_panel/domain/models/stadium_model/location_model.dart';
 
 import 'dates_model.dart';
+import 'location_model.dart';
 
 class StadiumModel {
   final String id;
